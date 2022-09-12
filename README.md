@@ -14,7 +14,7 @@ Website: https://sr3mp.net/
 
 # Favourites Programming Languages
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26px"/>
+<img align="left" src="https://raw.githubusercontent.com/K3rhos/K3rhos/main/icons/cpp.png" alt="C++" width="32px"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="26px"/>
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua" width="26px"/>
