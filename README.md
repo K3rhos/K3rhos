@@ -6,11 +6,11 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Social networks & Website
 
-Personal YouTube: https://www.youtube.com/channel/UC6p6fc_ztYAdjRk2hx92KYQ
+• Personal YouTube: https://www.youtube.com/channel/UC6p6fc_ztYAdjRk2hx92KYQ
 
-SR3MP YouTube: https://www.youtube.com/channel/UCxvCG-b8dmYLEuEwem8mvKQ
-SR3MP Discord: https://discord.gg/QBQwQQbVFf
-SR3MP Website: https://sr3mp.net/
+• SR3MP YouTube: https://www.youtube.com/channel/UCxvCG-b8dmYLEuEwem8mvKQ
+• SR3MP Discord: https://discord.gg/QBQwQQbVFf
+• SR3MP Website: https://sr3mp.net/
 
 # Favourites Programming Languages
 
