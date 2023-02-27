@@ -2,7 +2,7 @@
 
 Hey it's K3rhos, I'm a C++ developer and reverse engineer in game modding since 2017, started by modding on GTA 5 (Still doing it on my free time), that made me love RE (Reverse Engineering) and C++.
 
-I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The Third Remastered), this one is private but you can find repositories regarding this project that I make to help me in dev/reverse engineering.
+I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The Third Remastered), this one is private for now but you can find repositories regarding this project that I make to help me in scripting/reverse engineering.
 
 # Social networks & Website
 
