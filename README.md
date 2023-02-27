@@ -8,7 +8,7 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 #### Personal YouTube: https://www.youtube.com/c/K3rhos
 
-#### SR3MP YouTube: https://www.youtube.com/channel/UCxvCG-b8dmYLEuEwem8mvKQ
+#### SR3MP YouTube: https://www.youtube.com/@_SR3MP
 #### SR3MP Discord: https://discord.gg/QBQwQQbVFf
 #### SR3MP Website: https://sr3mp.net/
 
