@@ -6,7 +6,7 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Social networks & Website
 
-[![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow%20%40K3rhos%20%20%20%20%20%20%20%20%20&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrandon66812869)](https://twitter.com/Brandon66812869)
+[![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow%20%40K3rhos&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrandon66812869)](https://twitter.com/Brandon66812869)
 
 [![YouTube](https://img.shields.io/twitter/url?color=FF0000&label=Subscribe%20%40K3rhos&logo=YouTube&logoColor=FF0000&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2F%40K3rhos)](https://www.youtube.com/c/K3rhos)
 
