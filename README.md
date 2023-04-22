@@ -30,4 +30,4 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Github Stats
 
-[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=radical)](https://github.com/K3rhos/github-readme-stats)
+[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=merko)](https://github.com/K3rhos/github-readme-stats)
