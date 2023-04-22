@@ -22,8 +22,8 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Stats
 
-[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=swift&bg_color=0.0,00eaff,003e6c)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent&count_private=true&hide_title=true&hide_border=true))
+[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=apprentice&bg_color=0.0,00eaff,003e6c)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent&count_private=true&hide_title=true&hide_border=true))
 
 # Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=swift&bg_color=0.0,00eaff,003e6c)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent&hide_title=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=apprentice&bg_color=0.0,00eaff,003e6c)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent&hide_title=true&hide_border=true)
