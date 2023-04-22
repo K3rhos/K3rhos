@@ -22,7 +22,7 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Stats
 
-[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent))
+[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent&count_private=true))
 
 # Most Used Languages
 
