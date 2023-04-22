@@ -26,4 +26,4 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent&hide_title=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=github_dark&count_private=true&hide_title=true&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent&hide_title=true&hide_border=true)
