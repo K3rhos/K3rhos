@@ -22,8 +22,8 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Stats
 
-[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent&count_private=true&border_color=000000))
+[![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=transparent&count_private=true&border_radius=0.1))
 
 # Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent&border_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=transparent&border_radius=0.1)
