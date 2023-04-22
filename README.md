@@ -24,6 +24,6 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 <img align="left" src="https://raw.githubusercontent.com/K3rhos/K3rhos/main/icons/cpp.svg" alt="C++" width="32px"/>
 <img align="left" src="https://raw.githubusercontent.com/K3rhos/K3rhos/main/icons/csharp.svg" alt="C#" width="32px"/>
-<img align="left" src="https://raw.githubusercontent.com/K3rhos/K3rhos/main/icons/php.svg" alt="PHP" width="32px"/>
+<img align="left" src="https://raw.githubusercontent.com/K3rhos/K3rhos/main/icons/php.png" alt="PHP" width="32px"/>
 <img align="left" src="https://raw.githubusercontent.com/K3rhos/K3rhos/main/icons/lua.svg" alt="LUA" width="32px"/>
 <img align="left" src="https://raw.githubusercontent.com/K3rhos/K3rhos/main/icons/js.svg" alt="JS" width="32px"/>
