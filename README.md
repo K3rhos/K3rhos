@@ -22,7 +22,7 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 # Support me
 
-[![Patreon](https://img.shields.io/twitter/url?color=f96854&label=Become%20A%20Patron&logo=Patreon&logoColor=f96854&style=for-the-badge&url=https%3A%2F%2Fpatreon.com%2SR3MP)]([https://sr3mp.net/](https://www.patreon.com/SR3MP))
+[![Patreon](https://img.shields.io/twitter/url?color=f96854&label=Become%20A%20Patron&logo=Patreon&logoColor=f96854&style=for-the-badge&url=https%3A%2F%2Fpatreon.com%2SR3MP)](https://www.patreon.com/SR3MP)
 
 # Stats
 
