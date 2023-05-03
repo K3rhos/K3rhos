@@ -20,6 +20,10 @@ I'm currently working on a huge multiplayer mod project on SRTTR (Saints Row The
 
 [![Website](https://img.shields.io/twitter/url?color=A640FF&label=Visit%20SR3MP%20Website&logo=Google%20Chrome&logoColor=A640FF&style=for-the-badge&url=https%3A%2F%2Fsr3mp.net%2F)](https://sr3mp.net/)
 
+# Support me
+
+[![Patreon](https://img.shields.io/twitter/url?color=f96854&label=Become%20A%20Patron&logo=Patreon&logoColor=f96854&style=for-the-badge&url=https://www.patreon.com/SR3MP)]([https://sr3mp.net/](https://www.patreon.com/SR3MP))
+
 # Stats
 
 [![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=github_dark)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true))
