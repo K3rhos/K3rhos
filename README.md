@@ -5,7 +5,7 @@ Hey it's K3rhos, I'm a C++ developer and reverse engineer in game modding since 
 I was working on a huge mod project on SRTTR (Saints Row The Third Remastered) from 2021 to 2023, which was consisting of developing a multiplayer for this game. But sadly due to lack of interest and support from the community (I thanks every ppls that were following this project), I'm going to put this project in the background for now !
 I will probably come back sometimes to work on it, but it's not my main project anymore !
 
-I'm now developing a game, called "Bribe Authorities" (subject to change), it's a GTA Like multiplayer type of game in the PS2 era graphics style with dedicated servers, including exclusive minigames and with a huge amount of enterable interiors.
+I'm now developing a multiplayer game, heavily inspired by Saints Row IV & Goat Simulator 3.
 
 More news will come later this year about this project.
 
