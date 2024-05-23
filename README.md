@@ -1,6 +1,6 @@
 # About me
 
-Hey it's K3rhos, I'm a C++ developer and reverse engineer in game modding since 2017, started by modding on GTA 5 (Still doing it on my free time), that made me love RE (Reverse Engineering) and C++.
+Hey it's K3rhos, I'm a fullstack C++ developer and reverse engineer since 2017, started by modding on Grand Theft Auto V, I quickly became passionate about programming & reverse engineering.
 
 # Social networks & Website
 
@@ -10,7 +10,9 @@ Hey it's K3rhos, I'm a C++ developer and reverse engineer in game modding since 
 
 [![YouTube](https://img.shields.io/twitter/url?color=FF0000&label=Subscribe%20%40K3rhos&logo=YouTube&logoColor=FF0000&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2F%40K3rhos)](https://www.youtube.com/c/K3rhos)
 
-### SR3MP Project
+### Personal Projects
+
+#### SR3MP
 
 [![YouTube](https://img.shields.io/twitter/url?color=FF0000&label=Subscribe%20%40_SR3MP&logo=YouTube&logoColor=FF0000&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2F%40K3rhos)](https://www.youtube.com/@_SR3MP)
 
@@ -29,3 +31,19 @@ Hey it's K3rhos, I'm a C++ developer and reverse engineer in game modding since 
 # Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=github_dark&count_private=true&hide_title=true&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=github_dark&hide_title=true&hide_border=true)
+
+# Programming Languages Tier List
+- C/C++
+- LUA
+- JS
+- C#
+- PHP
+
+# Recommended Tools
+
+- Visual Studio
+- Visual Studio Code
+- System Informer
+- Cheat Engine
+- IDA Pro
+- x64dbg
