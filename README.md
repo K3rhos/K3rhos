@@ -26,6 +26,8 @@ Hey it's K3rhos, I'm a fullstack C++ developer and reverse engineer since 2017, 
 
 [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF&link=https://www.patreon.com/SR3MP)](https://www.patreon.com/SR3MP)
 
+[![PayPal](https://img.shields.io/badge/PayPal-0070E0?style=for-the-badge&logo=paypal&link=https://paypal.me/K3rhosOfficial)](https://paypal.me/K3rhosOfficial)
+
 # Stats
 
 [![K3rhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=github_dark)]([https://github.com/K3rhos/github-readme-stats](https://github-readme-stats.vercel.app/api?username=K3rhos&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true))
