@@ -6,25 +6,25 @@ Hey it's K3rhos, I'm a fullstack C++ developer and reverse engineer since 2017, 
 
 ### Personal
 
-[![Website](https://img.shields.io/twitter/url?color=00B6FF&label=Visit%20My%20Website&logo=Google%20Chrome&logoColor=00B6FF&style=for-the-badge&url=https%3A%2F%2Fsr3mp.net%2F)](https://k3rhos.me/)
+[![Website](https://img.shields.io/badge/Website-00B6FF?style=for-the-badge&logo=google&logoColor=FFFFFF&link=https://k3rhos.me/)](https://k3rhos.me/)
 
-[![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow%20%40K3rhosㅤㅤ&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrandon66812869)](https://twitter.com/K3rhos)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&link=https://twitter.com/K3rhos)](https://twitter.com/K3rhos)
 
-[![YouTube](https://img.shields.io/twitter/url?color=FF0000&label=Subscribe%20%40K3rhos&logo=YouTube&logoColor=FF0000&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2F%40K3rhos)](https://www.youtube.com/c/K3rhos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/c/K3rhos)](https://www.youtube.com/c/K3rhos)
 
 ### Personal Projects
 
 #### SR3MP
 
-[![YouTube](https://img.shields.io/twitter/url?color=FF0000&label=Subscribe%20%40_SR3MP&logo=YouTube&logoColor=FF0000&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2F%40K3rhos)](https://www.youtube.com/@_SR3MP)
+[![Website](https://img.shields.io/badge/Website-A600FF?style=for-the-badge&logo=google&logoColor=FFFFFF&link=https://sr3mp.net)](https://sr3mp.net)
 
-[![Discord](https://img.shields.io/twitter/url?color=7289DA&label=Join%20SR3MP%20Discord&logo=Discord&logoColor=7289DA&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FQBQwQQbVFf)](https://discord.gg/QBQwQQbVFf)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/c/K3rhos)](https://www.youtube.com/@_SR3MP)
 
-[![Website](https://img.shields.io/twitter/url?color=A640FF&label=Visit%20SR3MP%20Website&logo=Google%20Chrome&logoColor=A640FF&style=for-the-badge&url=https%3A%2F%2Fsr3mp.net%2F)](https://sr3mp.net/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://discord.gg/QBQwQQbVFf)](https://discord.gg/QBQwQQbVFf)
 
 # Support me
 
-[![Patreon](https://img.shields.io/twitter/url?color=f96854&label=Become%20A%20Patron&logo=Patreon&logoColor=f96854&style=for-the-badge&url=https%3A%2F%2Fpatreon.com%2SR3MP)](https://www.patreon.com/SR3MP)
+[![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF&link=https://www.patreon.com/SR3MP)](https://www.patreon.com/SR3MP)
 
 # Stats
 
