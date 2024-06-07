@@ -6,7 +6,7 @@ Hey it's K3rhos, I'm a fullstack C++ developer and reverse engineer since 2017, 
 
 ### Personal
 
-[![Website](https://img.shields.io/badge/Website-00B6FF?style=for-the-badge&logo=google&logoColor=FFFFFF&link=https://k3rhos.me/)](https://k3rhos.me/)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/c/K3rhos)](https://www.youtube.com/c/K3rhos)[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&link=https://twitter.com/K3rhos)](https://twitter.com/K3rhos)
+[![Website](https://img.shields.io/badge/Website-00A6ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDgxMiA4MjQiPjxwYXRoIGZpbGw9IiMwMEUwRkYiIGQ9Ik0wIDQxMnY0MTJoMjU2bC4yLTgwLjEuMy04MC4xIDY3IDgwIDY3IDgwLjFoMTY4LjNsMTY4LjQuMS0xMC40LTEyLjNjLTUuNy02LjctNzMuOC04Ny43LTE1MS4yLTE4MEM0NDEgNDgzLjIgNDI1IDQ2My43IDQyNi4yIDQ2Mi4yYy43LS45IDYuMi03LjQgMTIuMS0xNC41IDUuOS03LjEgMTEuNi0xNC4xIDEyLjUtMTUuNi45LTEuNCA4Mi42LTk5IDE4MS41LTIxNi44QzczMS4xIDk3LjQgODEyIC44IDgxMiAuNWMwLS4zLTc1LjUtLjUtMTY3LjctLjVMNDc2LjUuMWwtMTEwIDEzMS4yLTExMCAxMzEuMi0uMy0xMzEuM0wyNTYgMEgwdjQxMnoiLz48L3N2Zz4=&link=https://k3rhos.me/)](https://k3rhos.me/)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/c/K3rhos)](https://www.youtube.com/c/K3rhos)[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&link=https://twitter.com/K3rhos)](https://twitter.com/K3rhos)
 
 ### Personal Projects
 
