@@ -35,11 +35,7 @@ Hey it's K3rhos, I'm a fullstack C++ developer and reverse engineer since 2017, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=github_dark&count_private=true&hide_title=true&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rhos&layout=compact&theme=github_dark&hide_title=true&hide_border=true)
 
 # Programming Languages Tier List
-- C/C++
-- LUA
-- JS
-- C#
-- PHP
+<img src="programming-languages-tier-list.png"/>
 
 # Recommended Tools
 
