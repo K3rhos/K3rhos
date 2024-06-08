@@ -31,9 +31,9 @@ Hey it's K3rhos, I'm a fullstack C++ developer and reverse engineer since 2017, 
 
 # Recommended Tools
 
-- Visual Studio
-- Visual Studio Code
-- System Informer
-- Cheat Engine
-- IDA Pro
-- x64dbg
+- <a href="https://visualstudio.microsoft.com/fr/">Visual Studio</a>
+- <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+- <a href="https://systeminformer.sourceforge.io/">System Informer</a>
+- <a href="https://cheatengine.org/">Cheat Engine</a>
+- <a href="https://hex-rays.com/ida-pro/">IDA Pro</a>
+- <a href="https://x64dbg.com/">x64dbg</a>
