@@ -16,7 +16,7 @@ Hey it's K3rhos, I'm a fullstack C++ developer and reverse engineer since 2017, 
 
 # Support me
 
-[![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF&link=https://www.patreon.com/SR3MP)](https://www.patreon.com/SR3MP)[![PayPal](https://img.shields.io/badge/PayPal-0070E0?style=for-the-badge&logo=paypal&link=https://paypal.me/K3rhosOfficial)](https://paypal.me/K3rhosOfficial)
+[![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF&link=https://www.patreon.com/K3rhos)](https://www.patreon.com/K3rhos)[![PayPal](https://img.shields.io/badge/PayPal-0070E0?style=for-the-badge&logo=paypal&link=https://paypal.me/K3rhosOfficial)](https://paypal.me/K3rhosOfficial)
 
 # Stats
 
